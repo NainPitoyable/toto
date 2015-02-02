@@ -1,5 +1,4 @@
 <?php
-
 require_once 'Libs/tools/include.php';
 
 	$controller = new FrontController();
